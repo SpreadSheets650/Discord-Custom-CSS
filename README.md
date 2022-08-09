@@ -5,6 +5,6 @@
 --------
 # Preview :
 
-https://cdn.discordapp.com/attachments/1005289835726118943/1006526319980449842/SPOILER_unknown.png
+![image](https://cdn.discordapp.com/attachments/1005289835726118943/1006526319980449842/SPOILER_unknown.png)
 
-https://cdn.discordapp.com/attachments/1005289835726118943/1006526320387293246/SPOILER_unknown.png
+![image](https://cdn.discordapp.com/attachments/1005289835726118943/1006526320387293246/SPOILER_unknown.png)
